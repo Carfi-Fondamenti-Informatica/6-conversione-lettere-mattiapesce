@@ -15,7 +15,7 @@ char carattere (char a){
     scambio = int(a) -32;
   }
   else {
-    scambio = "9" ;
+    scambio = '9' ;
   }
   return scambio ;
 }
