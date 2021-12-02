@@ -1,5 +1,15 @@
 #include <iostream>
-
-int main(){
-  return 0;
+#include "lib.h"
+using namespace std ;
+int main () {
+  char word ;
+  cin >> word;
+  char output = carattere (word);
+  if8output == '9' ) {
+    cout << "errore" << endl ;
+  }
+  else{
+    cout << output <<endl ;
+  }
+  return 0 ;
 }
