@@ -5,7 +5,7 @@ int main () {
   char word ;
   cin >> word;
   char output = carattere (word);
-  if8output == '9' ) {
+  if(output == '9' ) {
     cout << "errore" << endl ;
   }
   else{
